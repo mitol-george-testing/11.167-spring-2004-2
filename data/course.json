@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "bc2e78b2-3452-c1c2-2b90-da196b4e3d85"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Economic Development & Technical Capabilities",
+  "course_description": "The economic growth of developing countries requires the acquisition of technological capabilities. In countries at the world technological frontier, such capabilities refer to cutting edge skills to innovate entirely new products. In developing countries, the requisite technological capabilities are broader, and include production engineering, project execution and incremental innovation to make borrowed technology work. Theories of technology acquisition are examined. The empirical evidence is taken from two sets of developing countries; the most advanced (Taiwan, Korea, India, China and Brazil) and the least advanced (Africa and Middle Eastern countries).\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.167",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
